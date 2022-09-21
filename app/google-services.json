@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298843020075",
+    "project_id": "g2c1-89431",
+    "storage_bucket": "g2c1-89431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298843020075:android:3e067779a6813490fac36e",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.g2c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298843020075-ul3f1nmpc93fv1a5evcdgmo5g7dca1ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQq4aaXEXWByAd3x2u7CpQ7IDO-SILrcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298843020075-ul3f1nmpc93fv1a5evcdgmo5g7dca1ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
